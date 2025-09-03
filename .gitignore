@@ -1,20 +1,6 @@
-# Environment files
 .env
-.env.local
-.env.production
-
-# n8n data
+node_modules/
 .n8n/
-*.sqlite
-*.db
-
-# Logs
 *.log
-
-# OS files
 .DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
+Dockerfile.backup
